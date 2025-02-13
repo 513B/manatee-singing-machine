@@ -1,6 +1,3 @@
-//
-// Created by 22793 on 2025/1/27.
-//
 
 // Listener.cpp
 #include "Listener.h"

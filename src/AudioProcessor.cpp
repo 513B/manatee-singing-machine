@@ -1,6 +1,4 @@
-//
-// Created by 22793 on 2025/2/5.
-//
+
 #include "AudioProcessor.h"
 #define MINIMP3_IMPLEMENTATION
 #include "minimp3.h"

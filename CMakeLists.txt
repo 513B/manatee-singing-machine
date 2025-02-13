@@ -24,6 +24,18 @@ set(SOURCES
         src/AudioProcessor.h
         src/minimp3.h
         src/minimp3_ex.h
+        src/SoundEngine.cpp
+        src/SoundEngine.h
+        src/Reflection.cpp
+        src/Reflection.h
+        src/PlaneReflection.cpp
+        src/PlaneReflection.h
+        src/SphereReflection.cpp
+        src/SphereReflection.h
+        src/CylinderReflection.cpp
+        src/CylinderReflection.h
+        src/Scene.cpp
+        src/Scene.h
 )
 
 # 创建可执行文件
